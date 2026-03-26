@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=150&section=header&text=ITACHI&fontSize=60&fontColor=c9d1d9&animation=fadeIn&fontAlignY=55&desc=&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161b22,100:0d1117&height=180&section=header&text=ITACHI&fontSize=55&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=&descAlignY=60" width="100%"/>
 
 <br>
 
@@ -168,16 +168,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itachi-1824/Itachi-1824/output/github-contribution-grid-snake.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Itachi-1824/Itachi-1824/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════ METRICS ═══════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github.com/Itachi-1824/Itachi-1824/blob/main/github-metrics.svg" alt="metrics" width="100%">
 
 </div>
 
