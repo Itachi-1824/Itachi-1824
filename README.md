@@ -107,24 +107,17 @@
 
 ### featured projects
 
-<a href="https://github.com/Itachi-1824/goblin-ai">
-<img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Itachi-1824&repo=goblin-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e" />
-</a>
-<a href="https://github.com/Itachi-1824/Memory-Arc">
-<img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Itachi-1824&repo=Memory-Arc&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e" />
-</a>
-<a href="https://github.com/Itachi-1824/CortexOne">
-<img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Itachi-1824&repo=CortexOne&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e" />
-</a>
-<a href="https://github.com/pollinations/pollinations">
-<img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=pollinations&repo=pollinations&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e" />
-</a>
-<a href="https://github.com/Itachi-1824/Sylph">
-<img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Itachi-1824&repo=Sylph&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e" />
-</a>
-<a href="https://github.com/Itachi-1824/deckforge">
-<img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Itachi-1824&repo=deckforge&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e7681&text_color=8b949e" />
-</a>
+[![](https://img.shields.io/badge/-🎨%20Goblin%20AI-000?style=flat-square)](https://github.com/Itachi-1824/goblin-ai) &nbsp; free ai image gen — 30+ models, zero sign-up &nbsp; ![](https://img.shields.io/github/stars/Itachi-1824/goblin-ai?style=flat-square&color=000&labelColor=000&logo=github&logoColor=666)
+
+[![](https://img.shields.io/badge/-🧠%20Memory--Arc-000?style=flat-square)](https://github.com/Itachi-1824/Memory-Arc) &nbsp; persistent memory architecture for ai agents &nbsp; ![](https://img.shields.io/github/stars/Itachi-1824/Memory-Arc?style=flat-square&color=000&labelColor=000&logo=github&logoColor=666)
+
+[![](https://img.shields.io/badge/-⚡%20CortexOne-000?style=flat-square)](https://github.com/Itachi-1824/CortexOne) &nbsp; intelligent automation platform &nbsp; ![](https://img.shields.io/github/stars/Itachi-1824/CortexOne?style=flat-square&color=000&labelColor=000&logo=github&logoColor=666)
+
+[![](https://img.shields.io/badge/-🌸%20Pollinations-000?style=flat-square)](https://github.com/pollinations/pollinations) &nbsp; open-source generative ai platform &nbsp; ![](https://img.shields.io/github/stars/pollinations/pollinations?style=flat-square&color=000&labelColor=000&logo=github&logoColor=666)
+
+[![](https://img.shields.io/badge/-🔮%20Sylph-000?style=flat-square)](https://github.com/Itachi-1824/Sylph) &nbsp; *coming soon*
+
+[![](https://img.shields.io/badge/-🃏%20DeckForge-000?style=flat-square)](https://github.com/Itachi-1824/deckforge) &nbsp; *coming soon*
 
 </div>
 
@@ -134,14 +127,12 @@
 
 <div align="center">
 
-### github stats
+### stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Itachi-1824&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=6e7681&ring_color=58a6ff&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Itachi-1824&hide_border=true&background=0D1117&ring=58a6ff&fire=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=21262d" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Itachi-1824&hide_border=true&background=0D1117&ring=58a6ff&fire=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=21262d" />
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itachi-1824&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8&exclude_repo=Itachi-1824" />
-
-<br><br>
+<br>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Itachi-1824&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true&custom_title=contribution%20graph" />
 
