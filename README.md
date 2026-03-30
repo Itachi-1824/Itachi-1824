@@ -129,22 +129,11 @@
 
 ### stats
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Itachi-1824&hide_border=true&background=0D1117&ring=58a6ff&fire=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=21262d" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Itachi-1824&hide_border=true&background=0D1117&ring=58a6ff&fire=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=21262d" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Itachi-1824&hide_border=true&background=0D1117&ring=58a6ff&fire=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&stroke=21262d" />
 
 <br>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Itachi-1824&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true&custom_title=contribution%20graph" />
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Itachi-1824&theme=darkhub&no-frame=true&no-bg=true&column=7" />
 
 </div>
 
